@@ -1,0 +1,12 @@
+#right
+{
+    position:absolute;
+    right: 0;
+    padding-right: 40px;
+    padding-top: 25px;
+    /* float: right; */
+}
+
+nav {
+    padding-left: 10px;
+}
