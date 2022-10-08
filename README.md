@@ -1,2 +1,4 @@
 # crud-app
-CRUD App in ReactJs
+### CRUD App
+Technology:
+ReactJS
