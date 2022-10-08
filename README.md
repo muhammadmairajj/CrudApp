@@ -1,2 +1,2 @@
 # crud-app
-CRUD App in React JS
+CRUD App in ReactJs
